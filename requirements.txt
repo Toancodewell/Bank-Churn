@@ -1,0 +1,13 @@
+pandas
+numpy
+seaborn
+matplotlib
+xgboost
+tensorflow
+scikit-learn
+plotly 
+panel
+# !pip install pymysql sqlalchemy
+
+# Model
+lightgbm
