@@ -124,7 +124,7 @@ jupyter notebook
 panel serve Bank.ipynb --show
 ```
 
-After running the command, the dashboard will automatically open in your browser (default: [http://localhost:5006](http://localhost:5006)).
+After running the command, the dashboard will automatically open in your browser (default: [http://localhost:5006/bank](http://localhost:5006/Bank)).
 
 ---
 
@@ -137,3 +137,4 @@ The model helps identify high-risk customers based on behavioral and financial p
 * Risk-based customer segmentation
 
 ---
+
